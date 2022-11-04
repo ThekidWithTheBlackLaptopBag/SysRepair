@@ -4,5 +4,4 @@ pause
 Repair-WindowsImage -Online -RestoreHealth
 pause
 sfc /scannow
-:end
 pause
