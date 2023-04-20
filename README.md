@@ -13,7 +13,7 @@ The best way to download SysRepair is by using the github zip feature. Alternatv
 
 # First time configuration:
 
-Find Run_SysRepair.cmd in the SysRepair folder and open it in your text editor or IDE, and find where the script mentions "C:\Users\benja\OneDrive\Desktop\SysRepair.ps1". Replace this path with the path to the folder and location you extracted SysRepair to, while making sure to keep the \SysRepair.ps1 and quotatoion marks in place. Save the file and run the script in a non-elevated mode. If you see an error message like "You must be a system admin to run this script", you have done it correctly and the script is ready to use. If you get a "This file cannot be found" error, you may have done this step wrong.
+Find Run_SysRepair.cmd in the SysRepair folder and open it in your text editor or IDE, and find where the script mentions "PATHTOYOUR.ps1FILEHERE". Replace this path with the path to the SysRepair.ps1 file, and keep the quotatoion marks in place. Save the file and run the script in a non-elevated mode. If you see an error message like "You must be a admin to run this script", you have done it correctly and the script is ready to use. If you get a "This file cannot be found" error, you may have done this step wrong.
 
 
 # Repairing Corruption:
