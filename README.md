@@ -1,10 +1,10 @@
 # SysRepair by Benjamin Turner
-A system repair and corruption removal tool for windows
+A corruption removal tool for windows
 
 
 # What is SysRepair?
 
-SysRepair is a system repair and corruption removal tool for windows, coded in powershell and batch script. It works by using the native SFC and DISM tools through Windows OS. This tool should systematicly walk you through the repair process running the nessessary tools to repair your Windows machine.
+SysRepair is a corruption removal tool for windows, coded in powershell and batch script. It works by using the native SFC and DISM tools through Windows OS. This tool should systematicly walk you through the repair process running the nessessary tools to repair your Windows machine.
 
 # Obtaining the programs
 
