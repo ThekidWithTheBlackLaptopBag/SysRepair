@@ -1,5 +1,5 @@
 # SysRepair by Benjamin Turner
-A corruption removal tool for windows
+A corruption removal tool for Windows
 
 
 # What is SysRepair?
