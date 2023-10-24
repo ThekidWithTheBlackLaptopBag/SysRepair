@@ -13,9 +13,7 @@ The best way to download SysRepair is by using the github zip feature. Alternatv
 
 # First time configuration:
 
-Find Run_SysRepair.cmd in the SysRepair folder and open it in your text editor or IDE, and find where the script mentions "PATHTOYOUR.ps1FILEHERE". Replace this path with the path to the SysRepair.ps1 file, and keep the quotatoion marks in place. 
-Save the file and run the script in a non-elevated mode. If you see an error message like "You must be a admin to run this script", you have done it correctly and the script is ready to use. 
-If you get a "This file cannot be found" error, you may have done this step wrong.
+Find Run_SysRepair.cmd in the SysRepair folder and open it in your text editor or IDE, and find where the script mentions "PATHTOYOUR.ps1FILEHERE". Replace this path with the path to the SysRepair.ps1 file, and keep the quotatoion marks in place. Save the file and run the script in a non-elevated mode. If you see an error message like "You must be a admin to run this script", you have done it correctly and the script is ready to use. If you get a "This file cannot be found" error, you may have done this step wrong.
 
 
 # Repairing Corruption:
@@ -32,4 +30,4 @@ Any issues or bugs should be reported to me through the issues tab in github.
 
 These programs were made by Benjamin Turner/ThekidWithTheBlackLaptopBag. Windows and it's associated patents are trademarked to Microsoft. This code is licensed under the GNU General Public License.
 
-# Happy corruption purging! Thank you for using SysRepair
+# Happy corruption purging! Thank you for using SysRepair!
