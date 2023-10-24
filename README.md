@@ -30,4 +30,4 @@ Any issues or bugs should be reported to me through the issues tab in GitHub.
 
 These programs were made by Benjamin Turner/ThekidWithTheBlackLaptopBag. Windows and it's associated patents are trademarked to Microsoft. This code is licensed under the GNU General Public License.
 
-## Happy corruption purging! Thank you for using SysRepair!
+## Happy corruption purging! Thank you for using SysRepair! 
