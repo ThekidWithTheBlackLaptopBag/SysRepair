@@ -1,7 +1,8 @@
+[![Lint Code Base](https://github.com/ThekidWithTheBlackLaptopBag/SysRepair/actions/workflows/super-linter.yml/badge.svg)](https://github.com/ThekidWithTheBlackLaptopBag/SysRepair/actions/workflows/super-linter.yml)
+
+
 # SysRepair by Benjamin Turner
 A corruption removal tool for Windows
-
-[![Lint Code Base](https://github.com/ThekidWithTheBlackLaptopBag/SysRepair/actions/workflows/super-linter.yml/badge.svg)](https://github.com/ThekidWithTheBlackLaptopBag/SysRepair/actions/workflows/super-linter.yml)
 
 # What is SysRepair?
 
