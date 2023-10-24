@@ -10,7 +10,7 @@ SysRepair is a corruption removal tool for Windows, coded in Powershell and batc
 
 # Obtaining the programs
 
-The best way to download SysRepair is by using the github zip feature. Alternatvely, you can use the git tools suite to keep up to date with the latest updates.
+The best way to download SysRepair is by using the GitHub zip feature. Alternatvely, you can use the git tools suite to keep up to date with the latest updates.
 
 
 # First time configuration:
@@ -25,7 +25,7 @@ Find Run_SysRepair.cmd in the SysRepair folder. Right click it and select "Run a
 
 # Bug reports:
 
-Any issues or bugs should be reported to me through the issues tab in github.
+Any issues or bugs should be reported to me through the issues tab in GitHub.
 
 
 # Copyright/Legal notices:
