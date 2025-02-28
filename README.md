@@ -2,6 +2,9 @@
 A corruption removal tool for Windows
 
 
+[![Lint Code Base](https://github.com/ThekidWithTheBlackLaptopBag/SysRepair/actions/workflows/super-linter.yml/badge.svg)](https://github.com/ThekidWithTheBlackLaptopBag/SysRepair/actions/workflows/super-linter.yml)
+
+
 ## Project Summary
 
 SysRepair is a corruption removal tool for Windows, coded in Powershell and batch script. It works by using the native SFC and DISM tools through Windows OS. This tool should systematically walk you through the repair process running the necessary tools to repair your Windows machine.
