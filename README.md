@@ -2,7 +2,7 @@
 A corruption removal tool for Windows
 
 
-## What is SysRepair
+## Project Summary
 
 SysRepair is a corruption removal tool for Windows, coded in Powershell and batch script. It works by using the native SFC and DISM tools through Windows OS. This tool should systematically walk you through the repair process running the necessary tools to repair your Windows machine.
 
@@ -29,6 +29,6 @@ Any issues or bugs should be reported to me through the issues tab in GitHub.
 
 ## Copyright/Legal notices
 
-These programs were made by Benjamin Turner/ThekidWithTheBlackLaptopBag. Windows and its associated patents are trademarked to Microsoft. This code is licensed under the GNU General Public License.
+This program was made by Benjamin Turner/ThekidWithTheBlackLaptopBag. Windows and its associated patents are trademarked to Microsoft. This code is licensed under the GNU General Public License.
 
 ### Happy corruption purging! Thank you for using SysRepair! 
